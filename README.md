@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Persist the todo items into SQLite instead of a text file
 
 ## Video Walkthrough
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Encountered technical and debugging issues but did a thorough research and solved the problems.
 
 ## License
 
